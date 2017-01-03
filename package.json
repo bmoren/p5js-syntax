@@ -1,7 +1,7 @@
 {
   "name": "p5js-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A p5js syntax theme for the atom editor",
   "keywords": [
     "syntax",
