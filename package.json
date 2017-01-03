@@ -2,12 +2,12 @@
   "name": "p5js-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A p5js syntax theme for the atom editor",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/p5js-syntax",
+  "repository": "https://github.com/bmoren/p5js-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
