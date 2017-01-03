@@ -5,7 +5,11 @@
   "description": "A p5js syntax theme for the atom editor",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "p5js",
+    "processing",
+    "p5xjs",
+    "p5"
   ],
   "repository": "https://github.com/bmoren/p5js-syntax",
   "license": "MIT",
